@@ -5,6 +5,7 @@
 **Official CapSolver tools for Browser Use agents — detect, solve, recover, and continue browser tasks.**
 
 [![Status](https://img.shields.io/badge/status-release--candidate-blue)](#project-status)
+[![License](https://img.shields.io/badge/license-ISC-green.svg)](LICENSE)
 [![Docs](https://img.shields.io/badge/docs-CapSolver-7c3aed)](https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/)
 [![Responsible use](https://img.shields.io/badge/use-authorized%20automation-0a7)](#responsible-use)
 
@@ -124,4 +125,6 @@ You must obtain authorization, follow applicable law and target-site terms, appl
 
 Read [CONTRIBUTING](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md). Issues and pull requests must use redacted fixtures and never contain credentials or private target data.
 
+## License
 
+[ISC](LICENSE)
